@@ -5,7 +5,7 @@ const BlogPage = async () => {
   const data = await getPostNewest();
   return (
     <div>
-       <div className="text-center text-3xl p-5 m-5 bg-green-400">
+       <div className="text-center p-5 m-5 bg-green-400">
       <h1>This is BlogPage With 1 section + header & footer section</h1>
         </div>
       <div>
