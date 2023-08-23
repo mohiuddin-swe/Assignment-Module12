@@ -7,7 +7,7 @@ export default async function Home() {
   const data = await getPostNewest();
   return (
     <div className="flex flex-col items-center">
-       <div className="text-center text-3xl p-5 m-5 bg-green-400">
+       <div className="text-center text-2xl p-5 m-5 bg-green-400">
       <h1> This is home page with 3 section + header & footer section. But in one section i displayed blog items using the api.</h1>
         </div>
       <Hero />
