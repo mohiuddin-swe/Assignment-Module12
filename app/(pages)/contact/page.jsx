@@ -1,7 +1,7 @@
 const ContactPage = () => {
   return (
     <>
-    <div className="text-center text-3xl p-5 m-5 bg-green-400">
+    <div className="text-center p-5 m-5 bg-green-400">
       <h1>This is Contact Page With 1 form section + header & footer section. This form section has input fields - name, email, website, message, and submit button.</h1>
         </div>
     <div className="h-screen bg-gray-100 flex items-center justify-center">
